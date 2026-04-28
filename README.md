@@ -187,26 +187,6 @@ Store dashboard screenshots in [`tableau/screenshots/`](tableau/screenshots/) an
 
 ---
 
-## Contribution Matrix
-
-This table must match evidence in GitHub Insights, PR history, and committed files.
-
-| Team Member | Dataset & Sourcing | ETL & Cleaning | EDA & Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT & Viva |
-|---|---|---|---|---|---|---|---|
-| Sai Thrishul | Owner | Owner | — | Owner | Support | — | — |
-| Burra Karthikeya | Owner | Owner | — | — | Owner | Owner | — |
-| Hariksh Suryawanshi | Owner | — | Owner | Owner | Owner | — | — |
-| Uday Kumar Choudhary | Owner | — | Owner | — | Owner | — | Owner |
-| Vamsi | Owner | — | — | — | Owner | Owner | Owner |
-
-_Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
-
-**Team Lead Name:** Sai Thrishul
-
-**Date:** April 28, 2026
-
----
-
 ## Academic Integrity
 
 All analysis, code, and recommendations in this repository must be the original work of the team listed above. Free-riding is tracked via GitHub Insights and pull request history. Any mismatch between the contribution matrix and actual commit history may result in individual grade adjustments.
