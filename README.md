@@ -113,13 +113,6 @@ See [`tableau/dashboard_links.md`](tableau/dashboard_links.md) for the live inte
 
 ---
 
-## Academic Integrity
-
-All analysis, code, and recommendations are the original work of the UKTHV team.
-No pre-cleaned datasets, copied dashboards, or reused templates were used.
-
----
-
 ## KPI Framework
 
 | KPI | Definition | Formula / Computation |
@@ -189,8 +182,7 @@ Store dashboard screenshots in [`tableau/screenshots/`](tableau/screenshots/) an
 
 ## Academic Integrity
 
-All analysis, code, and recommendations in this repository must be the original work of the team listed above. Free-riding is tracked via GitHub Insights and pull request history. Any mismatch between the contribution matrix and actual commit history may result in individual grade adjustments.
+All analysis, code, and recommendations are the original work of the UKTHV team.
+No pre-cleaned datasets, copied dashboards, or reused templates were used.
 
 ---
-
-*Newton School of Technology - Data Visualization & Analytics | Capstone 2*
